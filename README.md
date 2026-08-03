@@ -1,2 +1,0 @@
-# ombudsman
-Organizational Structure Tool
